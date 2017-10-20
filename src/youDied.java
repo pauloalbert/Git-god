@@ -4,6 +4,13 @@ public class youDied {
 	public static void main(String[] args) {
 		roll();
 		parry();
+		attack();
+
+	}
+	public static void attack(){
+
+		System.out.println("IM DA JUGGERNAUT BITCH");
+		coolness++;
 
 	}
 	public static void roll(){
