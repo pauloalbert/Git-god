@@ -9,5 +9,10 @@ public class youDied {
 		}
 
 	}
-	
+	public void roll(){
+		System.out.println("OH SHIT");
+	}
+	public void parry(){
+		System.out.println("trully a prow. gg ez");
+	}
 }
