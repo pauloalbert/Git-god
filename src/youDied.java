@@ -1,18 +1,17 @@
 
 public class youDied {
-
-	public static void main() {
-		// TODO Auto-generated method stub
-
-		if(true)	{
-	
-		}
+	static int coolness=0;
+	public static void main(String[] args) {
+		roll();
+		parry();
 
 	}
-	public void roll(){
+	public static void roll(){
 		System.out.println("OH SHIT");
+		coolness++;
 	}
-	public void parry(){
-		System.out.println("trully a prow. gg ez");
+	public static void parry(){
+		coolness+=100;
+		System.out.println("trully a pro. gg ez");
 	}
 }
