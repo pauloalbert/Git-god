@@ -7,7 +7,7 @@ public class youDied {
 
 	}
 	public static void roll(){
-		System.out.println("OH SHIT");
+		System.out.println("OH SHIT RAISING THE ROOOOF");
 		coolness++;
 	}
 	public static void parry(){
